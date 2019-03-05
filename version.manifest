@@ -1,0 +1,13 @@
+{
+	"packageUrl" : "http://apps.xmsgl2017.com/szn/hotupdate/ver1.2.8.6",
+	"remoteVersionUrl" : "http://apps.xmsgl2017.com/szn/hotupdate/version.manifest",
+	"remoteManifestUrl" : "http://apps.xmsgl2017.com/szn/hotupdate/project.manifest",
+	"version" : "1.2.8.6",
+	"appVerAnd" : "1.0.7",
+	"appVerIos" : "1.0.9",
+	"appUrlAnd" : "http://pdkzks.xmsgl2017.com/?app=szn&start_type=0",
+	"appUrlIos" : "http://pdkzks.xmsgl2017.com/?app=szn&start_type=0",
+	"reviewVer" : "1.0.6",
+	"revision" : "",
+	"engineVersion" : "Cocos2d-x v3.14.1"
+}
