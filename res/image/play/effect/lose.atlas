@@ -1,0 +1,83 @@
+
+lose.png
+size: 1008,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/0
+  rotate: true
+  xy: 2, 7
+  size: 284, 272
+  orig: 284, 272
+  offset: 0, 0
+  index: -1
+images/TX/00
+  rotate: false
+  xy: 526, 86
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+images/TX/1
+  rotate: false
+  xy: 495, 117
+  size: 124, 174
+  orig: 124, 174
+  offset: 0, 0
+  index: -1
+images/TX/2
+  rotate: true
+  xy: 887, 83
+  size: 74, 102
+  orig: 74, 102
+  offset: 0, 0
+  index: -1
+images/TX/3
+  rotate: false
+  xy: 772, 13
+  size: 113, 144
+  orig: 113, 144
+  offset: 0, 0
+  index: -1
+images/TX/4
+  rotate: false
+  xy: 887, 19
+  size: 83, 62
+  orig: 83, 62
+  offset: 0, 0
+  index: -1
+images/TX/girl
+  rotate: false
+  xy: 634, 17
+  size: 136, 274
+  orig: 136, 274
+  offset: 0, 0
+  index: -1
+images/TX/guang
+  rotate: false
+  xy: 772, 159
+  size: 234, 132
+  orig: 234, 132
+  offset: 0, 0
+  index: -1
+images/TX/logo
+  rotate: false
+  xy: 276, 2
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/TX/x
+  rotate: true
+  xy: 495, 85
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+images/TX/xx
+  rotate: true
+  xy: 276, 73
+  size: 218, 217
+  orig: 218, 217
+  offset: 0, 0
+  index: -1

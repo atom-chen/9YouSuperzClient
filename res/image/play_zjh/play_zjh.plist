@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/play_zjh/bet_multiple_bk.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{213,396},{112,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,38}</string>
+			</dict>
+			<key>image/play_zjh/btn_bet_chips.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{502,321},{97,122}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{97,122}</string>
+			</dict>
+			<key>image/play_zjh/btn_compare.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{624,270},{97,122}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{97,122}</string>
+			</dict>
+			<key>image/play_zjh/btn_give_up.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{674,392},{97,122}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{97,122}</string>
+			</dict>
+			<key>image/play_zjh/btn_raise_bet.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{669,116},{97,122}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{97,122}</string>
+			</dict>
+			<key>image/play_zjh/btn_raise_bet_detail_nor.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{595,418},{79,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{79,79}</string>
+			</dict>
+			<key>image/play_zjh/btn_raise_bet_detail_sel.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{721,238},{79,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{79,79}</string>
+			</dict>
+			<key>image/play_zjh/btn_view_card.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{380,270},{142,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{142,51}</string>
+			</dict>
+			<key>image/play_zjh/gold_coin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{522,270},{39,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{39,41}</string>
+			</dict>
+			<key>image/play_zjh/gold_pool_bk.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{445,213}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{445,213}</string>
+			</dict>
+			<key>image/play_zjh/pool_desc_bk.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,445},{306,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{306,57}</string>
+			</dict>
+			<key>image/play_zjh/countdown.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{380,0},{133,154}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{133,154}</string>
+			</dict>
+			<key>image/play_zjh/poker_type_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{213,338},{289,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{289,58}</string>
+			</dict>
+			<key>image/play_zjh/poker_type_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{306,434},{289,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{289,58}</string>
+			</dict>
+			<key>image/play_zjh/poker_type_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{380,154},{289,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{289,58}</string>
+			</dict>
+			<key>image/play_zjh/poker_type_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{513,0},{289,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{289,58}</string>
+			</dict>
+			<key>image/play_zjh/poker_type_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{513,58},{289,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{289,58}</string>
+			</dict>
+			<key>image/play_zjh/poker_type_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{380,212},{289,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{289,58}</string>
+			</dict>
+			<key>image/play_zjh/zjhWin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{213,0},{338,167}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{338,167}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>play_zjh.png</string>
+			<key>realTextureFileName</key>
+			<string>play_zjh.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

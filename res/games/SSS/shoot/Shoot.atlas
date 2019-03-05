@@ -1,0 +1,97 @@
+
+Shoot.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10001
+  rotate: false
+  xy: 991, 17
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+10002
+  rotate: false
+  xy: 394, 39
+  size: 98, 84
+  orig: 98, 84
+  offset: 0, 0
+  index: -1
+10003
+  rotate: false
+  xy: 284, 26
+  size: 109, 97
+  orig: 109, 97
+  offset: 0, 0
+  index: -1
+10004
+  rotate: false
+  xy: 493, 63
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+10005
+  rotate: false
+  xy: 725, 66
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+10006
+  rotate: false
+  xy: 493, 26
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+20001
+  rotate: true
+  xy: 791, 46
+  size: 35, 215
+  orig: 35, 215
+  offset: 0, 0
+  index: -1
+20002
+  rotate: true
+  xy: 791, 82
+  size: 41, 218
+  orig: 41, 218
+  offset: 0, 0
+  index: -1
+20003
+  rotate: true
+  xy: 565, 19
+  size: 46, 213
+  orig: 46, 213
+  offset: 0, 0
+  index: -1
+20004
+  rotate: true
+  xy: 779, 1
+  size: 44, 211
+  orig: 44, 211
+  offset: 0, 0
+  index: -1
+daqiang_1
+  rotate: false
+  xy: 1, 12
+  size: 282, 111
+  orig: 282, 111
+  offset: 0, 0
+  index: -1
+daqiang_2
+  rotate: false
+  xy: 565, 66
+  size: 159, 57
+  orig: 159, 57
+  offset: 0, 0
+  index: -1
+daqiang_3
+  rotate: true
+  xy: 394, 5
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1

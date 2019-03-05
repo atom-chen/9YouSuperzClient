@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/play/buyPledge/bgBuyPledge10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{675,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{675,243}</string>
+			</dict>
+			<key>image/play/buyPledge/bgBuyPledge6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{681,2},{675,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{675,243}</string>
+			</dict>
+			<key>image/play/buyPledge/bgBuyPledge8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,681},{675,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{675,243}</string>
+			</dict>
+			<key>image/play/buyPledge/btnBuy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{928,259},{111,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{111,48}</string>
+			</dict>
+			<key>image/play/buyPledge/btnBuyPledge.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{928,187},{87,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{87,68}</string>
+			</dict>
+			<key>image/play/buyPledge/btnNotBuyPledge.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{928,2},{181,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{181,74}</string>
+			</dict>
+			<key>image/play/buyPledge/buyBledgeBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{681,681},{259,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{259,108}</string>
+			</dict>
+			<key>image/play/buyPledge/imgBgBuyBig.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{928,374},{111,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{111,47}</string>
+			</dict>
+			<key>image/play/buyPledge/imgBgBuySmall.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{980,259},{87,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{87,40}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>buyPledge.png</string>
+			<key>realTextureFileName</key>
+			<string>buyPledge.png</string>
+			<key>size</key>
+			<string>{1022,926}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1022</integer>
+			<key>height</key>
+			<integer>926</integer>
+		</dict>
+	</dict>
+</plist>

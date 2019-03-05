@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/set/bar.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,46},{523,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{523,32}</string>
+			</dict>
+			<key>image/set/bar_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{531,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{531,40}</string>
+			</dict>
+			<key>image/set/btn_desktop1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{443,82},{116,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{116,38}</string>
+			</dict>
+			<key>image/set/btn_desktop2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{485,82},{116,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{116,38}</string>
+			</dict>
+			<key>image/set/btn_dismiss.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,82},{176,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{176,46}</string>
+			</dict>
+			<key>image/set/btn_logout.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{184,202},{177,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{177,45}</string>
+			</dict>
+			<key>image/set/btn_shock.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{412,202},{86,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,34}</string>
+			</dict>
+			<key>image/set/choice.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{293,159},{37,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{37,37}</string>
+			</dict>
+			<key>image/set/choice_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{537,2},{248,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{248,40}</string>
+			</dict>
+			<key>image/set/exit_game.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,202},{178,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,45}</string>
+			</dict>
+			<key>image/set/point_node.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{362,82},{73,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{73,77}</string>
+			</dict>
+			<key>image/set/room_exit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{182,82},{176,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{176,46}</string>
+			</dict>
+			<key>image/set/set_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{365,159},{91,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{91,43}</string>
+			</dict>
+			<key>image/set/img_desktop.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{221,159},{68,38}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{69,38}</string>
+			</dict>
+			<key>image/set/img_effect.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,159},{69,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{69,38}</string>
+			</dict>
+			<key>image/set/img_music.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{75,159},{69,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{69,38}</string>
+			</dict>
+			<key>image/set/img_shock.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{148,159},{69,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{69,38}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>set.png</string>
+			<key>realTextureFileName</key>
+			<string>set.png</string>
+			<key>size</key>
+			<string>{579,252}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>579</integer>
+			<key>height</key>
+			<integer>252</integer>
+		</dict>
+	</dict>
+</plist>

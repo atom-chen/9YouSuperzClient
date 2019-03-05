@@ -1,0 +1,41 @@
+
+5xiaoniu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5xiaoniu
+  rotate: false
+  xy: 255, 64
+  size: 208, 80
+  orig: 208, 80
+  offset: 0, 0
+  index: -1
+5xiaoniu2
+  rotate: false
+  xy: 255, 196
+  size: 246, 48
+  orig: 246, 48
+  offset: 0, 0
+  index: -1
+5xiaoniu3
+  rotate: false
+  xy: 2, 144
+  size: 251, 100
+  orig: 251, 100
+  offset: 0, 0
+  index: -1
+niu1
+  rotate: false
+  xy: 2, 2
+  size: 183, 140
+  orig: 183, 140
+  offset: 0, 0
+  index: -1
+niu1guang
+  rotate: false
+  xy: 255, 146
+  size: 246, 48
+  orig: 246, 48
+  offset: 0, 0
+  index: -1

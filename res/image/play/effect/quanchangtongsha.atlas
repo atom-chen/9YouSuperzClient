@@ -1,0 +1,111 @@
+
+quanchangtongsha.png
+size: 929,513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1/1
+  rotate: false
+  xy: 635, 30
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+images/1/2
+  rotate: false
+  xy: 901, 469
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+images/1/3
+  rotate: true
+  xy: 517, 6
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+images/1/4
+  rotate: true
+  xy: 901, 483
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+images/1/5
+  rotate: true
+  xy: 440, 4
+  size: 37, 75
+  orig: 37, 75
+  offset: 0, 0
+  index: -1
+images/1/6
+  rotate: true
+  xy: 586, 2
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+images/1/7
+  rotate: true
+  xy: 499, 47
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+images/TX/0
+  rotate: true
+  xy: 320, 105
+  size: 406, 388
+  orig: 406, 388
+  offset: 0, 0
+  index: -1
+images/TX/00
+  rotate: false
+  xy: 607, 61
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+images/TX/3
+  rotate: true
+  xy: 710, 14
+  size: 161, 206
+  orig: 161, 206
+  offset: 0, 0
+  index: -1
+images/TX/4
+  rotate: false
+  xy: 320, 14
+  size: 118, 89
+  orig: 118, 89
+  offset: 0, 0
+  index: -1
+images/TX/guang
+  rotate: true
+  xy: 710, 177
+  size: 334, 189
+  orig: 334, 189
+  offset: 0, 0
+  index: -1
+images/TX/logo
+  rotate: true
+  xy: 2, 2
+  size: 509, 316
+  orig: 509, 316
+  offset: 0, 0
+  index: -1
+images/TX/x
+  rotate: true
+  xy: 556, 52
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+images/sao
+  rotate: true
+  xy: 440, 43
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+tonghuashun.png
+size: 748,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_1
+  rotate: false
+  xy: 600, 262
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bao_2
+  rotate: false
+  xy: 308, 148
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bao_3
+  rotate: false
+  xy: 438, 148
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bao_4
+  rotate: false
+  xy: 291, 18
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bao_5
+  rotate: false
+  xy: 421, 18
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bao_6
+  rotate: false
+  xy: 568, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bao_7
+  rotate: false
+  xy: 551, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fangpian
+  rotate: true
+  xy: 698, 204
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+heitao
+  rotate: false
+  xy: 698, 154
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+hongtao
+  rotate: false
+  xy: 681, 54
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+meihua
+  rotate: false
+  xy: 698, 104
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+tonghuashun
+  rotate: false
+  xy: 2, 244
+  size: 304, 146
+  orig: 304, 146
+  offset: 0, 0
+  index: -1
+zhuomian_01
+  rotate: true
+  xy: 2, 125
+  size: 117, 286
+  orig: 117, 286
+  offset: 0, 0
+  index: -1
+zhuomian_02
+  rotate: true
+  xy: 2, 9
+  size: 114, 287
+  orig: 114, 287
+  offset: 0, 0
+  index: -1
+zhuomian_04
+  rotate: true
+  xy: 308, 278
+  size: 112, 290
+  orig: 112, 290
+  offset: 0, 0
+  index: -1

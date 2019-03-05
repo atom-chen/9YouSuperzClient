@@ -1,0 +1,146 @@
+
+effects1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1111
+  rotate: false
+  xy: 446, 307
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+image10
+  rotate: true
+  xy: 426, 302
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+image11
+  rotate: false
+  xy: 712, 322
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+image12
+  rotate: false
+  xy: 681, 267
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+image13
+  rotate: false
+  xy: 382, 181
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+image14
+  rotate: false
+  xy: 940, 433
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+image15
+  rotate: false
+  xy: 940, 453
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+image16
+  rotate: false
+  xy: 968, 490
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+image17
+  rotate: false
+  xy: 687, 302
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+image18
+  rotate: true
+  xy: 1, 1
+  size: 204, 276
+  orig: 204, 276
+  offset: 0, 0
+  index: -1
+image2
+  rotate: true
+  xy: 467, 302
+  size: 207, 219
+  orig: 207, 219
+  offset: 0, 0
+  index: -1
+image3
+  rotate: false
+  xy: 1, 206
+  size: 424, 121
+  orig: 424, 121
+  offset: 0, 0
+  index: -1
+image4
+  rotate: false
+  xy: 426, 203
+  size: 169, 98
+  orig: 169, 98
+  offset: 0, 0
+  index: -1
+image5
+  rotate: false
+  xy: 1, 328
+  size: 465, 181
+  orig: 465, 181
+  offset: 0, 0
+  index: -1
+image6
+  rotate: true
+  xy: 278, 7
+  size: 198, 103
+  orig: 198, 103
+  offset: 0, 0
+  index: -1
+image7
+  rotate: false
+  xy: 596, 217
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+image8
+  rotate: false
+  xy: 681, 283
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+image9
+  rotate: false
+  xy: 382, 166
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+qimage21
+  rotate: false
+  xy: 687, 339
+  size: 246, 71
+  orig: 246, 71
+  offset: 0, 0
+  index: -1
+qimage6
+  rotate: false
+  xy: 687, 411
+  size: 252, 98
+  orig: 252, 98
+  offset: 0, 0
+  index: -1

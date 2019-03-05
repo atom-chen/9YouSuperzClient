@@ -1,0 +1,34 @@
+
+jinniu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5xiaoniu2
+  rotate: false
+  xy: 195, 190
+  size: 246, 48
+  orig: 246, 48
+  offset: 0, 0
+  index: -1
+jinniu1
+  rotate: false
+  xy: 2, 115
+  size: 191, 123
+  orig: 191, 123
+  offset: 0, 0
+  index: -1
+jinniu3
+  rotate: true
+  xy: 195, 2
+  size: 136, 143
+  orig: 136, 143
+  offset: 0, 0
+  index: -1
+niu1guang
+  rotate: false
+  xy: 195, 140
+  size: 246, 48
+  orig: 246, 48
+  offset: 0, 0
+  index: -1

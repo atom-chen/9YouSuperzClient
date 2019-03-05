@@ -1,0 +1,132 @@
+
+kaishi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lshenzi
+  rotate: false
+  xy: 846, 854
+  size: 21, 127
+  orig: 21, 127
+  offset: 0, 0
+  index: -1
+Rshenzi
+  rotate: true
+  xy: 2, 2
+  size: 35, 131
+  orig: 35, 131
+  offset: 0, 0
+  index: -1
+mb
+  rotate: false
+  xy: 2, 883
+  size: 320, 98
+  orig: 320, 98
+  offset: 0, 0
+  index: -1
+skill_add_star/NO- (1)
+  rotate: false
+  xy: 2, 672
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+skill_add_star/NO- (10)
+  rotate: false
+  xy: 2, 461
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+skill_add_star/NO- (11)
+  rotate: false
+  xy: 2, 250
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+skill_add_star/NO- (12)
+  rotate: false
+  xy: 2, 39
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+skill_add_star/NO- (13)
+  rotate: false
+  xy: 213, 672
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+skill_add_star/NO- (14)
+  rotate: false
+  xy: 213, 461
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+skill_add_star/NO- (15)
+  rotate: false
+  xy: 213, 250
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+skill_add_star/NO- (2)
+  rotate: false
+  xy: 213, 39
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+skill_add_star/NO- (3)
+  rotate: false
+  xy: 424, 772
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+skill_add_star/NO- (4)
+  rotate: false
+  xy: 424, 561
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+skill_add_star/NO- (5)
+  rotate: false
+  xy: 635, 772
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+skill_add_star/NO- (6)
+  rotate: false
+  xy: 424, 350
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+skill_add_star/NO- (7)
+  rotate: false
+  xy: 635, 561
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+skill_add_star/NO- (8)
+  rotate: false
+  xy: 424, 139
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+skill_add_star/NO- (9)
+  rotate: false
+  xy: 635, 350
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/play/ysniu/bomb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,173},{174,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{174,71}</string>
+			</dict>
+			<key>image/play/ysniu/huluniu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{173,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{173,73}</string>
+			</dict>
+			<key>image/play/ysniu/meiniu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{172,73},{122,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{122,68}</string>
+			</dict>
+			<key>image/play/ysniu/niu1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{253,303},{115,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{115,63}</string>
+			</dict>
+			<key>image/play/ysniu/niu2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{370,289},{116,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,63}</string>
+			</dict>
+			<key>image/play/ysniu/niu3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{254,239},{116,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,64}</string>
+			</dict>
+			<key>image/play/ysniu/niu4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{137,209},{117,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{117,65}</string>
+			</dict>
+			<key>image/play/ysniu/niu5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{172,141},{117,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{117,68}</string>
+			</dict>
+			<key>image/play/ysniu/niu6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{71,262},{117,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{117,65}</string>
+			</dict>
+			<key>image/play/ysniu/niu7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,347},{114,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{114,66}</string>
+			</dict>
+			<key>image/play/ysniu/niu8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{136,274},{117,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{117,63}</string>
+			</dict>
+			<key>image/play/ysniu/niu9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{289,173},{117,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{117,66}</string>
+			</dict>
+			<key>image/play/ysniu/niuniu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{406,174},{115,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{115,67}</string>
+			</dict>
+			<key>image/play/ysniu/shunzi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,73},{172,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,71}</string>
+			</dict>
+			<key>image/play/ysniu/tonghua.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{419,0},{174,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{174,72}</string>
+			</dict>
+			<key>image/play/ysniu/wuxiaoniu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{173,0},{173,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{173,73}</string>
+			</dict>
+			<key>image/play/ysniu/yinniu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{71,144},{118,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{118,66}</string>
+			</dict>
+			<key>image/play/ysniu/yitiaolong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{346,0},{173,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{173,73}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>niu.png</string>
+			<key>realTextureFileName</key>
+			<string>niu.png</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,27 @@
+
+yiniu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yinniu1
+  rotate: false
+  xy: 140, 62
+  size: 135, 83
+  orig: 135, 83
+  offset: 0, 0
+  index: -1
+yinniu2
+  rotate: false
+  xy: 2, 2
+  size: 136, 143
+  orig: 136, 143
+  offset: 0, 0
+  index: -1
+yinniu3
+  rotate: false
+  xy: 2, 147
+  size: 304, 50
+  orig: 304, 50
+  offset: 0, 0
+  index: -1

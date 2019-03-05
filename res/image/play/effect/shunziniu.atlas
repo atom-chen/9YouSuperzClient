@@ -1,0 +1,69 @@
+
+shunziniu.png
+size: 392,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_1
+  rotate: false
+  xy: 2, 295
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bao_2
+  rotate: false
+  xy: 132, 295
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bao_3
+  rotate: false
+  xy: 262, 295
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bao_4
+  rotate: false
+  xy: 2, 165
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bao_5
+  rotate: false
+  xy: 132, 165
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bao_6
+  rotate: false
+  xy: 262, 165
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bao_7
+  rotate: false
+  xy: 2, 35
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+paixing
+  rotate: false
+  xy: 132, 2
+  size: 258, 161
+  orig: 258, 161
+  offset: 0, 0
+  index: -1
+shunziniu
+  rotate: false
+  xy: 2, 425
+  size: 304, 80
+  orig: 304, 80
+  offset: 0, 0
+  index: -1

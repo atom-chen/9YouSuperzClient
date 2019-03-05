@@ -1,0 +1,55 @@
+
+tonghuaniu.png
+size: 435,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangpian
+  rotate: false
+  xy: 309, 81
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 309, 131
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+heitao
+  rotate: false
+  xy: 367, 81
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+hongtao
+  rotate: false
+  xy: 358, 31
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+meihua
+  rotate: false
+  xy: 308, 31
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+niutou
+  rotate: false
+  xy: 2, 84
+  size: 305, 175
+  orig: 305, 175
+  offset: 0, 0
+  index: -1
+tonghuaniu
+  rotate: false
+  xy: 2, 2
+  size: 304, 80
+  orig: 304, 80
+  offset: 0, 0
+  index: -1

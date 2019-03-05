@@ -1,0 +1,41 @@
+
+dajiesuan.png
+size: 607,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0
+  rotate: false
+  xy: 258, 35
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+images/1
+  rotate: false
+  xy: 164, 20
+  size: 92, 76
+  orig: 92, 76
+  offset: 0, 0
+  index: -1
+images/D
+  rotate: false
+  xy: 2, 98
+  size: 415, 89
+  orig: 415, 89
+  offset: 0, 0
+  index: -1
+images/G1
+  rotate: false
+  xy: 419, 2
+  size: 186, 185
+  orig: 186, 185
+  offset: 0, 0
+  index: -1
+images/LOGO
+  rotate: false
+  xy: 2, 42
+  size: 160, 54
+  orig: 160, 54
+  offset: 0, 0
+  index: -1

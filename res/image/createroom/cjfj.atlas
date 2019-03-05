@@ -1,0 +1,97 @@
+
+cjfj.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx10001
+  rotate: false
+  xy: 2, 760
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1
+gx10002
+  rotate: false
+  xy: 2, 502
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1
+gx10003
+  rotate: false
+  xy: 244, 760
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1
+gx10004
+  rotate: false
+  xy: 2, 244
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1
+gx10005
+  rotate: false
+  xy: 244, 502
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1
+gx10006
+  rotate: false
+  xy: 486, 760
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1
+gx10007
+  rotate: false
+  xy: 244, 244
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1
+gx10008
+  rotate: true
+  xy: 2, 2
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1
+gx10009
+  rotate: false
+  xy: 486, 502
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1
+gx10010
+  rotate: false
+  xy: 728, 760
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1
+gx10011
+  rotate: false
+  xy: 486, 244
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1
+gx10012
+  rotate: true
+  xy: 260, 2
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 728, 717
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1

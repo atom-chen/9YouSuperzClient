@@ -1,0 +1,27 @@
+
+niu8.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niu1guang
+  rotate: false
+  xy: 2, 53
+  size: 246, 48
+  orig: 246, 48
+  offset: 0, 0
+  index: -1
+niu1xing
+  rotate: false
+  xy: 2, 2
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+niu8
+  rotate: false
+  xy: 2, 103
+  size: 186, 140
+  orig: 186, 140
+  offset: 0, 0
+  index: -1

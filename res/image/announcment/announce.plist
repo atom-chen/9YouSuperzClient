@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/announcment/btn_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{910,2},{223,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{223,65}</string>
+			</dict>
+			<key>image/announcment/btn_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{943,229},{223,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{223,65}</string>
+			</dict>
+			<key>image/announcment/img_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,471},{11,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{11,16}</string>
+			</dict>
+			<key>image/announcment/img_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,491},{11,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{11,16}</string>
+			</dict>
+			<key>image/announcment/img_tip.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{822,465}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{822,465}</string>
+			</dict>
+			<key>image/announcment/mark.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{828,290},{111,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{111,62}</string>
+			</dict>
+			<key>image/announcment/enteractivity.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{828,2},{284,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{284,78}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>announce.png</string>
+			<key>realTextureFileName</key>
+			<string>announce.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

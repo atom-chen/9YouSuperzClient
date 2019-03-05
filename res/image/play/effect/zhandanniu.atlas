@@ -1,0 +1,27 @@
+
+zhandanniu.png
+size: 500,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 2, 7
+  size: 246, 78
+  orig: 246, 78
+  offset: 0, 0
+  index: -1
+images/2
+  rotate: false
+  xy: 2, 87
+  size: 304, 50
+  orig: 304, 50
+  offset: 0, 0
+  index: -1
+images/zd
+  rotate: false
+  xy: 308, 2
+  size: 190, 135
+  orig: 190, 135
+  offset: 0, 0
+  index: -1

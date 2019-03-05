@@ -1,0 +1,62 @@
+
+poshui.png
+size: 904,848
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 2, 566
+  size: 308, 280
+  orig: 308, 280
+  offset: 0, 0
+  index: -1
+images/2
+  rotate: false
+  xy: 2, 284
+  size: 308, 280
+  orig: 308, 280
+  offset: 0, 0
+  index: -1
+images/3
+  rotate: false
+  xy: 312, 566
+  size: 308, 280
+  orig: 308, 280
+  offset: 0, 0
+  index: -1
+images/4
+  rotate: false
+  xy: 2, 2
+  size: 308, 280
+  orig: 308, 280
+  offset: 0, 0
+  index: -1
+images/5
+  rotate: false
+  xy: 312, 284
+  size: 308, 280
+  orig: 308, 280
+  offset: 0, 0
+  index: -1
+images/6
+  rotate: true
+  xy: 622, 538
+  size: 308, 280
+  orig: 308, 280
+  offset: 0, 0
+  index: -1
+images/7
+  rotate: false
+  xy: 312, 2
+  size: 308, 280
+  orig: 308, 280
+  offset: 0, 0
+  index: -1
+images/8
+  rotate: true
+  xy: 622, 228
+  size: 308, 280
+  orig: 308, 280
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/joinroom/0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{175,70},{51,59}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{160,80}</string>
+			</dict>
+			<key>image/joinroom/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,111},{12,59}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{160,80}</string>
+			</dict>
+			<key>image/joinroom/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{238,70},{51,59}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{160,80}</string>
+			</dict>
+			<key>image/joinroom/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{502,2},{49,59}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,80}</string>
+			</dict>
+			<key>image/joinroom/4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{301,70},{51,59}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{160,80}</string>
+			</dict>
+			<key>image/joinroom/5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{364,68},{51,59}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{160,80}</string>
+			</dict>
+			<key>image/joinroom/6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{427,68},{51,59}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{160,80}</string>
+			</dict>
+			<key>image/joinroom/7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{545,65},{49,59}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,80}</string>
+			</dict>
+			<key>image/joinroom/8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{447,2},{51,59}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,80}</string>
+			</dict>
+			<key>image/joinroom/9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{490,65},{51,59}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,80}</string>
+			</dict>
+			<key>image/joinroom/delete.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{175,2},{133,64}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,80}</string>
+			</dict>
+			<key>image/joinroom/Reset.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{312,2},{131,62}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,80}</string>
+			</dict>
+			<key>image/joinroom/btn_number.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{169,105}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{169,105}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>joinroom.png</string>
+			<key>realTextureFileName</key>
+			<string>joinroom.png</string>
+			<key>size</key>
+			<string>{596,126}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>596</integer>
+			<key>height</key>
+			<integer>126</integer>
+		</dict>
+	</dict>
+</plist>

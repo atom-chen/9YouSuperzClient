@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/sport/btn_detail.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,920},{85,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{85,45}</string>
+			</dict>
+			<key>image/sport/btn_retire.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{953,250},{243,69}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{244,71}</string>
+			</dict>
+			<key>image/sport/btn_sign.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{953,2},{244,69}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{244,71}</string>
+			</dict>
+			<key>image/sport/detail_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{882,2},{277,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{277,67}</string>
+			</dict>
+			<key>image/sport/iphone.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,147},{124,103}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{124,103}</string>
+			</dict>
+			<key>image/sport/item_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,497},{84,208}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,208}</string>
+			</dict>
+			<key>image/sport/rank_item_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,840},{76,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{76,68}</string>
+			</dict>
+			<key>image/sport/record_item_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,358},{54,156}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,156}</string>
+			</dict>
+			<key>image/sport/sport_on_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,283},{244,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{244,71}</string>
+			</dict>
+			<key>image/sport/ticket.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{51,920},{48,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{48,59}</string>
+			</dict>
+			<key>image/sport/ticket_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{218,147},{207,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{207,59}</string>
+			</dict>
+			<key>image/sport/btn_record.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{218,210},{193,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{193,57}</string>
+			</dict>
+			<key>image/sport/roomcard.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{109,147},{120,105}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,105}</string>
+			</dict>
+			<key>image/sport/award_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,416},{127,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{127,56}</string>
+			</dict>
+			<key>image/sport/btn_award.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,709},{127,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{127,56}</string>
+			</dict>
+			<key>image/sport/mask.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{876,141}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{876,141}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>sport.png</string>
+			<key>realTextureFileName</key>
+			<string>sport.png</string>
+			<key>size</key>
+			<string>{1024,1007}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1007</integer>
+		</dict>
+	</dict>
+</plist>

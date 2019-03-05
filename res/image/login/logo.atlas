@@ -1,0 +1,264 @@
+
+logo.png
+size: 1002,1010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/00
+  rotate: false
+  xy: 2, 715
+  size: 478, 293
+  orig: 478, 293
+  offset: 0, 0
+  index: -1
+images/001
+  rotate: false
+  xy: 2, 2
+  size: 273, 203
+  orig: 273, 203
+  offset: 0, 0
+  index: -1
+images/LOGO/10
+  rotate: false
+  xy: 818, 582
+  size: 142, 195
+  orig: 142, 195
+  offset: 0, 0
+  index: -1
+images/LOGO/3a
+  rotate: true
+  xy: 199, 224
+  size: 207, 289
+  orig: 207, 289
+  offset: 0, 0
+  index: -1
+images/LOGO/9
+  rotate: true
+  xy: 706, 463
+  size: 117, 160
+  orig: 117, 160
+  offset: 0, 0
+  index: -1
+images/LOGO/BJR1
+  rotate: false
+  xy: 910, 877
+  size: 82, 131
+  orig: 82, 131
+  offset: 0, 0
+  index: -1
+images/LOGO/BJR2
+  rotate: true
+  xy: 871, 290
+  size: 65, 128
+  orig: 65, 128
+  offset: 0, 0
+  index: -1
+images/LOGO/GIRL
+  rotate: true
+  xy: 482, 779
+  size: 229, 426
+  orig: 229, 426
+  offset: 0, 0
+  index: -1
+images/LOGO/a
+  rotate: true
+  xy: 277, 21
+  size: 201, 280
+  orig: 201, 280
+  offset: 0, 0
+  index: -1
+images/LOGO/logo
+  rotate: true
+  xy: 2, 207
+  size: 506, 195
+  orig: 506, 195
+  offset: 0, 0
+  index: -1
+images/TX/0
+  rotate: false
+  xy: 962, 631
+  size: 38, 244
+  orig: 38, 244
+  offset: 0, 0
+  index: -1
+images/TX/1
+  rotate: false
+  xy: 910, 833
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+images/TX/Lan
+  rotate: false
+  xy: 482, 588
+  size: 334, 189
+  orig: 334, 189
+  offset: 0, 0
+  index: -1
+images/TX/lizi/1
+  rotate: false
+  xy: 199, 433
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/1
+  rotate: true
+  xy: 481, 461
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/2
+  rotate: false
+  xy: 490, 236
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/3
+  rotate: false
+  xy: 617, 236
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/4
+  rotate: false
+  xy: 559, 11
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/5
+  rotate: false
+  xy: 686, 11
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/6
+  rotate: false
+  xy: 744, 238
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/7
+  rotate: false
+  xy: 813, 13
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/8
+  rotate: false
+  xy: 871, 357
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+
+logo2.png
+size: 894,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/LOGO/J
+  rotate: false
+  xy: 764, 274
+  size: 128, 176
+  orig: 128, 176
+  offset: 0, 0
+  index: -1
+images/LOGO/q
+  rotate: false
+  xy: 764, 96
+  size: 126, 176
+  orig: 126, 176
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/10
+  rotate: false
+  xy: 2, 2
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/11
+  rotate: false
+  xy: 129, 227
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/12
+  rotate: false
+  xy: 129, 2
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/13
+  rotate: false
+  xy: 256, 227
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/14
+  rotate: false
+  xy: 256, 2
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/15
+  rotate: false
+  xy: 383, 227
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/16
+  rotate: false
+  xy: 383, 2
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/17
+  rotate: false
+  xy: 510, 227
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/18
+  rotate: false
+  xy: 510, 2
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/19
+  rotate: false
+  xy: 637, 227
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/20
+  rotate: false
+  xy: 637, 2
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+images/TX/miaobian/9
+  rotate: false
+  xy: 2, 227
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/play/sangong/sg0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{926,2},{350,88}}</string>
+				<key>offset</key>
+				<string>{0,-8}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{350,104}</string>
+			</dict>
+			<key>image/play/sangong/sg10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,218},{350,101}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,104}</string>
+			</dict>
+			<key>image/play/sangong/sg100.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{356,218},{350,101}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,104}</string>
+			</dict>
+			<key>image/play/sangong/sg110.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,323},{350,101}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{350,104}</string>
+			</dict>
+			<key>image/play/sangong/sg20.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,677},{350,101}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,104}</string>
+			</dict>
+			<key>image/play/sangong/sg30.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{350,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,104}</string>
+			</dict>
+			<key>image/play/sangong/sg40.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{107,323},{350,97}}</string>
+				<key>offset</key>
+				<string>{0,-3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{350,104}</string>
+			</dict>
+			<key>image/play/sangong/sg50.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{208,323},{350,97}}</string>
+				<key>offset</key>
+				<string>{0,-3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{350,104}</string>
+			</dict>
+			<key>image/play/sangong/sg60.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{309,323},{350,97}}</string>
+				<key>offset</key>
+				<string>{0,-3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{350,104}</string>
+			</dict>
+			<key>image/play/sangong/sg70.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{356,2},{350,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,104}</string>
+			</dict>
+			<key>image/play/sangong/sg80.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{710,2},{350,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{350,104}</string>
+			</dict>
+			<key>image/play/sangong/sg90.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{818,2},{350,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{350,104}</string>
+			</dict>
+			<key>image/play/sangong/sg91.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,110},{350,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,104}</string>
+			</dict>
+			<key>image/play/sangong/sg92.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{356,110},{350,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,104}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>sangong.png</string>
+			<key>realTextureFileName</key>
+			<string>sangong.png</string>
+			<key>size</key>
+			<string>{1016,780}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1016</integer>
+			<key>height</key>
+			<integer>780</integer>
+		</dict>
+	</dict>
+</plist>

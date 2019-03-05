@@ -1,0 +1,27 @@
+
+kjbj.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 2, 2
+  size: 398, 357
+  orig: 398, 357
+  offset: 0, 0
+  index: -1
+tsg0002
+  rotate: false
+  xy: 402, 178
+  size: 181, 181
+  orig: 181, 181
+  offset: 0, 0
+  index: -1
+tsg0003
+  rotate: false
+  xy: 585, 178
+  size: 181, 181
+  orig: 181, 181
+  offset: 0, 0
+  index: -1

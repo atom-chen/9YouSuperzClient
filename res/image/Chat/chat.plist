@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/Chat/btn_emoji.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{473,762},{40,113}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{40,113}</string>
+			</dict>
+			<key>image/Chat/btn_fix.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{147,887},{38,111}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{38,111}</string>
+			</dict>
+			<key>image/Chat/btn_send.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,887},{141,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{141,63}</string>
+			</dict>
+			<key>image/Chat/chat_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{497,690}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{497,690}</string>
+			</dict>
+			<key>image/Chat/fix_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,822},{465,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{465,61}</string>
+			</dict>
+			<key>image/Chat/img_choice.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{471,814},{93,131}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{93,131}</string>
+			</dict>
+			<key>image/Chat/input_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{352,696},{310,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{310,62}</string>
+			</dict>
+			<key>image/Chat/nick_bg1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{352,762},{117,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{117,48}</string>
+			</dict>
+			<key>image/Chat/text_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,696},{346,122}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,122}</string>
+			</dict>
+			<key>image/Chat/yy_tishi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{104,954},{32,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{32,36}</string>
+			</dict>
+			<key>image/Chat/btn_chat.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,954},{38,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{38,98}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>chat.png</string>
+			<key>realTextureFileName</key>
+			<string>chat.png</string>
+			<key>size</key>
+			<string>{664,1000}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>664</integer>
+			<key>height</key>
+			<integer>1000</integer>
+		</dict>
+	</dict>
+</plist>

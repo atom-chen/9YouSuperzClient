@@ -1,0 +1,27 @@
+info face="resJieSuanLose" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=70 base=26 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="resJieSuanLose.png"
+chars count=21
+char id=48 x=164 y=183 width=38 height=67 xoffset=0 yoffset=3 xadvance=39 page=0 chnl=0 letter="0"
+char id=49 x=203 y=133 width=31 height=65 xoffset=0 yoffset=4 xadvance=32 page=0 chnl=0 letter="1"
+char id=50 x=185 y=0 width=38 height=66 xoffset=0 yoffset=3 xadvance=39 page=0 chnl=0 letter="2"
+char id=51 x=164 y=115 width=38 height=67 xoffset=0 yoffset=3 xadvance=39 page=0 chnl=0 letter="3"
+char id=52 x=65 y=72 width=40 height=65 xoffset=0 yoffset=4 xadvance=41 page=0 chnl=0 letter="4"
+char id=53 x=124 y=136 width=39 height=66 xoffset=0 yoffset=4 xadvance=40 page=0 chnl=0 letter="5"
+char id=54 x=106 y=68 width=39 height=67 xoffset=0 yoffset=3 xadvance=40 page=0 chnl=0 letter="6"
+char id=55 x=203 y=67 width=34 height=65 xoffset=0 yoffset=4 xadvance=35 page=0 chnl=0 letter="7"
+char id=56 x=146 y=47 width=38 height=67 xoffset=0 yoffset=3 xadvance=39 page=0 chnl=0 letter="8"
+char id=57 x=67 y=0 width=39 height=67 xoffset=0 yoffset=3 xadvance=40 page=0 chnl=0 letter="9"
+char id=43 x=107 y=0 width=39 height=46 xoffset=0 yoffset=14 xadvance=40 page=0 chnl=0 letter="+"
+char id=45 x=0 y=210 width=40 height=24 xoffset=0 yoffset=29 xadvance=41 page=0 chnl=0 letter="-"
+char id=44 x=62 y=215 width=19 height=33 xoffset=0 yoffset=42 xadvance=20 page=0 chnl=0 letter=","
+char id=46 x=41 y=215 width=20 height=27 xoffset=0 yoffset=42 xadvance=21 page=0 chnl=0 letter="."
+char id=58 x=124 y=203 width=20 height=48 xoffset=0 yoffset=21 xadvance=21 page=0 chnl=0 letter=":"
+char id=119 x=0 y=142 width=61 height=67 xoffset=0 yoffset=5 xadvance=62 page=0 chnl=0 letter="w"
+char id=121 x=0 y=72 width=64 height=69 xoffset=0 yoffset=5 xadvance=65 page=0 chnl=0 letter="y"
+char id=106 x=0 y=0 width=66 height=71 xoffset=0 yoffset=3 xadvance=67 page=0 chnl=0 letter="j"
+char id=98 x=62 y=142 width=61 height=72 xoffset=0 yoffset=2 xadvance=62 page=0 chnl=0 letter="b"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=1 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=0 letter="	"
+
+kernings count=0

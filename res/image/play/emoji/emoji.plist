@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/play/emoji/cheers.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3,224},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+			<key>image/play/emoji/cock.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{215,215},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+			<key>image/play/emoji/courtship.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{319,215},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+			<key>image/play/emoji/daoshuiFX.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{215,319},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+			<key>image/play/emoji/emoji_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3,3},{174,109}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{174,109}</string>
+			</dict>
+			<key>image/play/emoji/gunshootFX_hit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{183,3},{100,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>image/play/emoji/jiuping.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{107,321},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+			<key>image/play/emoji/roseFX_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3,328},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+			<key>image/play/emoji/woshou.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{319,319},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+			<key>image/play/emoji/img_coke.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{289,3},{100,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>image/play/emoji/img_daoshui.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{395,3},{100,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>image/play/emoji/img_egg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{183,109},{100,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>image/play/emoji/img_ganbei.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3,118},{100,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>image/play/emoji/img_jiuping.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{211,423},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+			<key>image/play/emoji/img_kiss.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{289,109},{100,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>image/play/emoji/img_rose.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{395,109},{100,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>image/play/emoji/img_woshou.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{109,215},{100,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>image/play/emoji/throwingEggs.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{107,425},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>emoji.png</string>
+			<key>realTextureFileName</key>
+			<string>emoji.png</string>
+			<key>size</key>
+			<string>{512,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

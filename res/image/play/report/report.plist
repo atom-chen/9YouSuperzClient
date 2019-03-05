@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/play/report/btn_back.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{204,204},{226,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{226,82}</string>
+			</dict>
+			<key>image/play/report/btn_share.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{430,0},{226,81}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{226,81}</string>
+			</dict>
+			<key>image/play/report/img_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{330,204}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{330,204}</string>
+			</dict>
+			<key>image/play/report/img_sign.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,437},{49,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{49,84}</string>
+			</dict>
+			<key>image/play/report/report_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,330},{518,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{518,107}</string>
+			</dict>
+			<key>image/play/report/img_local_tycoon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{84,437},{49,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{49,84}</string>
+			</dict>
+			<key>image/play/report/img_bg_ten.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{518,0},{230,204}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{230,204}</string>
+			</dict>
+			<key>image/play/report/img_sign_ten.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{168,437},{82,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,43}</string>
+			</dict>
+			<key>image/play/report/img_local_tycoon_ten.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{250,437},{83,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{83,41}</string>
+			</dict>
+			<key>image/play/report/img_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,486},{20,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,20}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>report.png</string>
+			<key>realTextureFileName</key>
+			<string>report.png</string>
+			<key>size</key>
+			<string>{748,506}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>748</integer>
+			<key>height</key>
+			<integer>506</integer>
+		</dict>
+	</dict>
+</plist>

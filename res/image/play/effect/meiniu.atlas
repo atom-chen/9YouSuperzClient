@@ -1,0 +1,27 @@
+
+meiniu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meiniu1
+  rotate: false
+  xy: 2, 3
+  size: 220, 83
+  orig: 220, 83
+  offset: 0, 0
+  index: -1
+meiniu2
+  rotate: true
+  xy: 308, 2
+  size: 136, 143
+  orig: 136, 143
+  offset: 0, 0
+  index: -1
+meiniu3
+  rotate: false
+  xy: 2, 88
+  size: 304, 50
+  orig: 304, 50
+  offset: 0, 0
+  index: -1
