@@ -1,0 +1,40 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="cardtype" Type="Plist" ID="0eecd06d-9d0b-4a1b-9262-0d36eb312fb7" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/playttz/cardtype/0.png" />
+      <FilePathData Path="image/playttz/cardtype/10.png" />
+      <FilePathData Path="image/playttz/cardtype/110.png" />
+      <FilePathData Path="image/playttz/cardtype/120.png" />
+      <FilePathData Path="image/playttz/cardtype/130.png" />
+      <FilePathData Path="image/playttz/cardtype/15.png" />
+      <FilePathData Path="image/playttz/cardtype/20.png" />
+      <FilePathData Path="image/playttz/cardtype/25.png" />
+      <FilePathData Path="image/playttz/cardtype/30.png" />
+      <FilePathData Path="image/playttz/cardtype/35.png" />
+      <FilePathData Path="image/playttz/cardtype/40.png" />
+      <FilePathData Path="image/playttz/cardtype/45.png" />
+      <FilePathData Path="image/playttz/cardtype/50.png" />
+      <FilePathData Path="image/playttz/cardtype/55.png" />
+      <FilePathData Path="image/playttz/cardtype/60.png" />
+      <FilePathData Path="image/playttz/cardtype/65.png" />
+      <FilePathData Path="image/playttz/cardtype/70.png" />
+      <FilePathData Path="image/playttz/cardtype/75.png" />
+      <FilePathData Path="image/playttz/cardtype/80.png" />
+      <FilePathData Path="image/playttz/cardtype/85.png" />
+      <FilePathData Path="image/playttz/cardtype/90.png" />
+      <FilePathData Path="image/playttz/cardtype/95.png" />
+      <FilePathData Path="image/playttz/cardtype/b1.png" />
+      <FilePathData Path="image/playttz/cardtype/b10.png" />
+      <FilePathData Path="image/playttz/cardtype/b2.png" />
+      <FilePathData Path="image/playttz/cardtype/b3.png" />
+      <FilePathData Path="image/playttz/cardtype/b4.png" />
+      <FilePathData Path="image/playttz/cardtype/b5.png" />
+      <FilePathData Path="image/playttz/cardtype/b6.png" />
+      <FilePathData Path="image/playttz/cardtype/b7.png" />
+      <FilePathData Path="image/playttz/cardtype/b8.png" />
+      <FilePathData Path="image/playttz/cardtype/b9.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

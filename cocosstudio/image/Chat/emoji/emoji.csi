@@ -1,0 +1,14 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="emoji" Type="Plist" ID="dd2101cb-6ff0-4732-8949-3140a2b3ea66" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/Chat/emoji/emoticon_angry.png" />
+      <FilePathData Path="image/Chat/emoji/emoticon_cool.png" />
+      <FilePathData Path="image/Chat/emoji/emoticon_cry.png" />
+      <FilePathData Path="image/Chat/emoji/emoticon_happy.png" />
+      <FilePathData Path="image/Chat/emoji/emoticon_suprise.png" />
+      <FilePathData Path="image/Chat/emoji/emoticon_tears.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="128" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,14 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="dice" Type="Plist" ID="dbc40acb-dc1e-4bf1-aac4-304b11e433b8" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/play/dice/1.png" />
+      <FilePathData Path="image/play/dice/2.png" />
+      <FilePathData Path="image/play/dice/3.png" />
+      <FilePathData Path="image/play/dice/4.png" />
+      <FilePathData Path="image/play/dice/5.png" />
+      <FilePathData Path="image/play/dice/6.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="128" />
+  </Content>
+</PlistInfoProjectFile>

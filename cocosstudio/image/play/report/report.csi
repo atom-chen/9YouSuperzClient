@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="report" Type="Plist" ID="a5d67dba-7719-401c-93af-a0c6a017cd92" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/play/report/btn_back.png" />
+      <FilePathData Path="image/play/report/btn_share.png" />
+      <FilePathData Path="image/play/report/img_bg.png" />
+      <FilePathData Path="image/play/report/img_sign.png" />
+      <FilePathData Path="image/play/report/report_title.png" />
+      <FilePathData Path="image/play/report/img_local_tycoon.png" />
+      <FilePathData Path="image/play/report/img_bg_ten.png" />
+      <FilePathData Path="image/play/report/img_sign_ten.png" />
+      <FilePathData Path="image/play/report/img_local_tycoon_ten.png" />
+      <FilePathData Path="image/play/report/img_3.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

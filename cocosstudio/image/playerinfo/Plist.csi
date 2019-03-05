@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Plist" Type="Plist" ID="98caa166-ca25-447b-91ea-5d2d80739f78" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/playerinfo/bg1.png" />
+      <FilePathData Path="image/playerinfo/bg2.png" />
+      <FilePathData Path="image/playerinfo/bg4.png" />
+      <FilePathData Path="image/playerinfo/bg5.png" />
+      <FilePathData Path="image/playerinfo/expression.png" />
+      <FilePathData Path="image/playerinfo/img_ID.png" />
+      <FilePathData Path="image/playerinfo/img_line.png" />
+      <FilePathData Path="image/playerinfo/img_more.png" />
+      <FilePathData Path="image/playerinfo/img_Title.png" />
+      <FilePathData Path="image/playerinfo/time_bg.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

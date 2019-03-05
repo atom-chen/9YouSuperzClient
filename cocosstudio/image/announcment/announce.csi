@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="announce" Type="Plist" ID="4da649d0-98c2-4d86-bc23-22e90730f166" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/announcment/btn_1.png" />
+      <FilePathData Path="image/announcment/btn_2.png" />
+      <FilePathData Path="image/announcment/img_1.png" />
+      <FilePathData Path="image/announcment/img_2.png" />
+      <FilePathData Path="image/announcment/img_tip.png" />
+      <FilePathData Path="image/announcment/mark.png" />
+      <FilePathData Path="image/announcment/enteractivity.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="sport" Type="Plist" ID="070ba8a4-a6bd-431c-838f-75ecc78360a6" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/sport/btn_detail.png" />
+      <FilePathData Path="image/sport/btn_retire.png" />
+      <FilePathData Path="image/sport/btn_sign.png" />
+      <FilePathData Path="image/sport/detail_title.png" />
+      <FilePathData Path="image/sport/iphone.png" />
+      <FilePathData Path="image/sport/item_bg.png" />
+      <FilePathData Path="image/sport/rank_item_bg.png" />
+      <FilePathData Path="image/sport/record_item_bg.png" />
+      <FilePathData Path="image/sport/sport_on_bg.png" />
+      <FilePathData Path="image/sport/ticket.png" />
+      <FilePathData Path="image/sport/ticket_bg.png" />
+      <FilePathData Path="image/sport/btn_record.png" />
+      <FilePathData Path="image/sport/roomcard.png" />
+      <FilePathData Path="image/sport/award_bg.png" />
+      <FilePathData Path="image/sport/btn_award.png" />
+      <FilePathData Path="image/sport/mask.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

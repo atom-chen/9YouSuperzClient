@@ -1,0 +1,19 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="card" Type="Plist" ID="0eaf8f66-85b6-47fc-a81b-578f99a45eba" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/playttz/card/0c.png" />
+      <FilePathData Path="image/playttz/card/21.png" />
+      <FilePathData Path="image/playttz/card/22.png" />
+      <FilePathData Path="image/playttz/card/23.png" />
+      <FilePathData Path="image/playttz/card/24.png" />
+      <FilePathData Path="image/playttz/card/25.png" />
+      <FilePathData Path="image/playttz/card/26.png" />
+      <FilePathData Path="image/playttz/card/27.png" />
+      <FilePathData Path="image/playttz/card/28.png" />
+      <FilePathData Path="image/playttz/card/29.png" />
+      <FilePathData Path="image/playttz/card/back.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,27 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="play_zjh" Type="Plist" ID="4bed9f16-ef31-4f15-8d18-614e79743396" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/play_zjh/bet_multiple_bk.png" />
+      <FilePathData Path="image/play_zjh/btn_bet_chips.png" />
+      <FilePathData Path="image/play_zjh/btn_compare.png" />
+      <FilePathData Path="image/play_zjh/btn_give_up.png" />
+      <FilePathData Path="image/play_zjh/btn_raise_bet.png" />
+      <FilePathData Path="image/play_zjh/btn_raise_bet_detail_nor.png" />
+      <FilePathData Path="image/play_zjh/btn_raise_bet_detail_sel.png" />
+      <FilePathData Path="image/play_zjh/btn_view_card.png" />
+      <FilePathData Path="image/play_zjh/gold_coin.png" />
+      <FilePathData Path="image/play_zjh/gold_pool_bk.png" />
+      <FilePathData Path="image/play_zjh/pool_desc_bk.png" />
+      <FilePathData Path="image/play_zjh/countdown.png" />
+      <FilePathData Path="image/play_zjh/poker_type_1.png" />
+      <FilePathData Path="image/play_zjh/poker_type_2.png" />
+      <FilePathData Path="image/play_zjh/poker_type_3.png" />
+      <FilePathData Path="image/play_zjh/poker_type_4.png" />
+      <FilePathData Path="image/play_zjh/poker_type_5.png" />
+      <FilePathData Path="image/play_zjh/poker_type_6.png" />
+      <FilePathData Path="image/play_zjh/zjhWin.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

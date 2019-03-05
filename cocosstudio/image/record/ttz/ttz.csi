@@ -1,0 +1,40 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="ttz" Type="Plist" ID="e404d767-eda4-401a-9842-fde16d02bef5" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/record/ttz/0.png" />
+      <FilePathData Path="image/record/ttz/10.png" />
+      <FilePathData Path="image/record/ttz/110.png" />
+      <FilePathData Path="image/record/ttz/120.png" />
+      <FilePathData Path="image/record/ttz/130.png" />
+      <FilePathData Path="image/record/ttz/15.png" />
+      <FilePathData Path="image/record/ttz/20.png" />
+      <FilePathData Path="image/record/ttz/25.png" />
+      <FilePathData Path="image/record/ttz/30.png" />
+      <FilePathData Path="image/record/ttz/35.png" />
+      <FilePathData Path="image/record/ttz/40.png" />
+      <FilePathData Path="image/record/ttz/45.png" />
+      <FilePathData Path="image/record/ttz/50.png" />
+      <FilePathData Path="image/record/ttz/55.png" />
+      <FilePathData Path="image/record/ttz/60.png" />
+      <FilePathData Path="image/record/ttz/65.png" />
+      <FilePathData Path="image/record/ttz/70.png" />
+      <FilePathData Path="image/record/ttz/75.png" />
+      <FilePathData Path="image/record/ttz/80.png" />
+      <FilePathData Path="image/record/ttz/85.png" />
+      <FilePathData Path="image/record/ttz/90.png" />
+      <FilePathData Path="image/record/ttz/95.png" />
+      <FilePathData Path="image/record/ttz/mj0c.png" />
+      <FilePathData Path="image/record/ttz/mj21.png" />
+      <FilePathData Path="image/record/ttz/mj22.png" />
+      <FilePathData Path="image/record/ttz/mj23.png" />
+      <FilePathData Path="image/record/ttz/mj24.png" />
+      <FilePathData Path="image/record/ttz/mj25.png" />
+      <FilePathData Path="image/record/ttz/mj26.png" />
+      <FilePathData Path="image/record/ttz/mj27.png" />
+      <FilePathData Path="image/record/ttz/mj28.png" />
+      <FilePathData Path="image/record/ttz/mj29.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

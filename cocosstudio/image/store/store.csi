@@ -1,0 +1,48 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="store" Type="Plist" ID="94a8e5cd-f0ed-4765-a060-0086e06c8d3b" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/store/daichong1.png" />
+      <FilePathData Path="image/store/daichong2.png" />
+      <FilePathData Path="image/store/font_recharge.png" />
+      <FilePathData Path="image/store/frame_bg.png" />
+      <FilePathData Path="image/store/invite_code.png" />
+      <FilePathData Path="image/store/money_logo.png" />
+      <FilePathData Path="image/store/recharge_record.png" />
+      <FilePathData Path="image/store/recharge_room_card1.png" />
+      <FilePathData Path="image/store/recharge_room_card2.png" />
+      <FilePathData Path="image/store/recharge_success.png" />
+      <FilePathData Path="image/store/store_title.png" />
+      <FilePathData Path="image/store/tip_bg.png" />
+      <FilePathData Path="image/store/warning_title.png" />
+      <FilePathData Path="image/store/recharge_mark4.png" />
+      <FilePathData Path="image/store/recharge_mark3.png" />
+      <FilePathData Path="image/store/recharge_mark2.png" />
+      <FilePathData Path="image/store/recharge_mark1.png" />
+      <FilePathData Path="image/store/dividing_line.png" />
+      <FilePathData Path="image/store/recharge_history.png" />
+      <FilePathData Path="image/store/invite_code_bg.png" />
+      <FilePathData Path="image/store/info_bg.png" />
+      <FilePathData Path="image/store/recharge_mark328.png" />
+      <FilePathData Path="image/store/recharge_problem.png" />
+      <FilePathData Path="image/store/recharge_mark128.png" />
+      <FilePathData Path="image/store/recharge_mark18.png" />
+      <FilePathData Path="image/store/recharge_mark68.png" />
+      <FilePathData Path="image/store/recharge_mark8.png" />
+      <FilePathData Path="image/store/title_bg.png" />
+      <FilePathData Path="image/store/recharge_mark30.png" />
+      <FilePathData Path="image/store/img_daichong.png" />
+      <FilePathData Path="image/store/coupon5.png" />
+      <FilePathData Path="image/store/coupon50.png" />
+      <FilePathData Path="image/store/coupon1.png" />
+      <FilePathData Path="image/store/coupon2.png" />
+      <FilePathData Path="image/store/frame_bg2.png" />
+      <FilePathData Path="image/store/img_1.png" />
+      <FilePathData Path="image/store/img_2.png" />
+      <FilePathData Path="image/store/btn_1.png" />
+      <FilePathData Path="image/store/btn_2.png" />
+      <FilePathData Path="image/store/img_preferential.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

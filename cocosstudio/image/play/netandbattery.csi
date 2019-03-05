@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="netandbattery" Type="Plist" ID="a2bc145f-6818-4945-a241-97ea7e619c26" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/play/network_13.png" />
+      <FilePathData Path="image/play/network_33.png" />
+      <FilePathData Path="image/play/battery_bg1.png" />
+      <FilePathData Path="image/play/battery_bg3.png" />
+      <FilePathData Path="image/play/battery1.png" />
+      <FilePathData Path="image/play/battery3.png" />
+      <FilePathData Path="image/play/battery_bg2.png" />
+      <FilePathData Path="image/play/battery2.png" />
+      <FilePathData Path="image/play/network_11.png" />
+      <FilePathData Path="image/play/network_12.png" />
+      <FilePathData Path="image/play/network_21.png" />
+      <FilePathData Path="image/play/network_22.png" />
+      <FilePathData Path="image/play/network_23.png" />
+      <FilePathData Path="image/play/network_31.png" />
+      <FilePathData Path="image/play/network_32.png" />
+      <FilePathData Path="image/play/network_bg.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="128" />
+  </Content>
+</PlistInfoProjectFile>

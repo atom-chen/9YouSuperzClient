@@ -1,0 +1,45 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="niu" Type="Plist" ID="85e8b4d8-c8f1-4bab-b48a-ab1bd826f747" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/playys/niu/bg.png" />
+      <FilePathData Path="image/playys/niu/bomb.png" />
+      <FilePathData Path="image/playys/niu/gourd.png" />
+      <FilePathData Path="image/playys/niu/jinniu.png" />
+      <FilePathData Path="image/playys/niu/meiniu.png" />
+      <FilePathData Path="image/playys/niu/niu1.png" />
+      <FilePathData Path="image/playys/niu/niu2.png" />
+      <FilePathData Path="image/playys/niu/niu3.png" />
+      <FilePathData Path="image/playys/niu/niu4.png" />
+      <FilePathData Path="image/playys/niu/niu5.png" />
+      <FilePathData Path="image/playys/niu/niu6.png" />
+      <FilePathData Path="image/playys/niu/niu7.png" />
+      <FilePathData Path="image/playys/niu/niu8.png" />
+      <FilePathData Path="image/playys/niu/niu9.png" />
+      <FilePathData Path="image/playys/niu/niuniu.png" />
+      <FilePathData Path="image/playys/niu/straight.png" />
+      <FilePathData Path="image/playys/niu/flush.png" />
+      <FilePathData Path="image/playys/niu/wuxiaoniu.png" />
+      <FilePathData Path="image/playys/niu/yinniu.png" />
+      <FilePathData Path="image/playys/niu/yitiaolong.png" />
+      <FilePathData Path="image/playys/niu/b1.png" />
+      <FilePathData Path="image/playys/niu/b2.png" />
+      <FilePathData Path="image/playys/niu/b3.png" />
+      <FilePathData Path="image/playys/niu/b4.png" />
+      <FilePathData Path="image/playys/niu/b5.png" />
+      <FilePathData Path="image/playys/niu/b6.png" />
+      <FilePathData Path="image/playys/niu/b7.png" />
+      <FilePathData Path="image/playys/niu/b8.png" />
+      <FilePathData Path="image/playys/niu/b9.png" />
+      <FilePathData Path="image/playys/niu/b10.png" />
+      <FilePathData Path="image/playys/niu/straightflush.png" />
+      <FilePathData Path="image/playys/niu/b15.png" />
+      <FilePathData Path="image/playys/niu/b20.png" />
+      <FilePathData Path="image/playys/niu/b25.png" />
+      <FilePathData Path="image/playys/niu/b30.png" />
+      <FilePathData Path="image/playys/niu/b35.png" />
+      <FilePathData Path="image/playys/niu/b40.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

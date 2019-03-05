@@ -1,0 +1,22 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="sangong" Type="Plist" ID="4df5c666-bda3-4839-9549-266c7f6a6bbf" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/play/sangong/sg0.png" />
+      <FilePathData Path="image/play/sangong/sg10.png" />
+      <FilePathData Path="image/play/sangong/sg100.png" />
+      <FilePathData Path="image/play/sangong/sg110.png" />
+      <FilePathData Path="image/play/sangong/sg20.png" />
+      <FilePathData Path="image/play/sangong/sg30.png" />
+      <FilePathData Path="image/play/sangong/sg40.png" />
+      <FilePathData Path="image/play/sangong/sg50.png" />
+      <FilePathData Path="image/play/sangong/sg60.png" />
+      <FilePathData Path="image/play/sangong/sg70.png" />
+      <FilePathData Path="image/play/sangong/sg80.png" />
+      <FilePathData Path="image/play/sangong/sg90.png" />
+      <FilePathData Path="image/play/sangong/sg91.png" />
+      <FilePathData Path="image/play/sangong/sg92.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

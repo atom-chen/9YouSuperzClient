@@ -1,0 +1,13 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="service" Type="Plist" ID="7cb292bd-d2ff-4f85-8a72-b1f5e0dd8fef" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/service/construction.png" />
+      <FilePathData Path="image/service/public.png" />
+      <FilePathData Path="image/service/title.png" />
+      <FilePathData Path="image/service/wx.png" />
+      <FilePathData Path="image/service/construction2.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

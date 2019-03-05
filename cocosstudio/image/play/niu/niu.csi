@@ -1,0 +1,43 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="niu" Type="Plist" ID="0aac05bd-9798-4746-a1a3-32d52468d0c7" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/play/niu/b1.png" />
+      <FilePathData Path="image/play/niu/b10.png" />
+      <FilePathData Path="image/play/niu/b2.png" />
+      <FilePathData Path="image/play/niu/b3.png" />
+      <FilePathData Path="image/play/niu/b4.png" />
+      <FilePathData Path="image/play/niu/b5.png" />
+      <FilePathData Path="image/play/niu/b6.png" />
+      <FilePathData Path="image/play/niu/b7.png" />
+      <FilePathData Path="image/play/niu/b8.png" />
+      <FilePathData Path="image/play/niu/b9.png" />
+      <FilePathData Path="image/play/niu/bomb.png" />
+      <FilePathData Path="image/play/niu/jinniu.png" />
+      <FilePathData Path="image/play/niu/meiniu.png" />
+      <FilePathData Path="image/play/niu/niuniu.png" />
+      <FilePathData Path="image/play/niu/wuxiaoniu.png" />
+      <FilePathData Path="image/play/niu/yinniu.png" />
+      <FilePathData Path="image/play/niu/yitiaolong.png" />
+      <FilePathData Path="image/play/niu/niu1.png" />
+      <FilePathData Path="image/play/niu/niu2.png" />
+      <FilePathData Path="image/play/niu/niu3.png" />
+      <FilePathData Path="image/play/niu/niu4.png" />
+      <FilePathData Path="image/play/niu/niu5.png" />
+      <FilePathData Path="image/play/niu/niu6.png" />
+      <FilePathData Path="image/play/niu/niu7.png" />
+      <FilePathData Path="image/play/niu/niu8.png" />
+      <FilePathData Path="image/play/niu/niu9.png" />
+      <FilePathData Path="image/play/niu/flush.png" />
+      <FilePathData Path="image/play/niu/gourd.png" />
+      <FilePathData Path="image/play/niu/straight.png" />
+      <FilePathData Path="image/play/niu/b15.png" />
+      <FilePathData Path="image/play/niu/b20.png" />
+      <FilePathData Path="image/play/niu/b25.png" />
+      <FilePathData Path="image/play/niu/b30.png" />
+      <FilePathData Path="image/play/niu/b35.png" />
+      <FilePathData Path="image/play/niu/b40.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

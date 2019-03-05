@@ -1,0 +1,26 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="emoji" Type="Plist" ID="27b0b000-9b85-4d5b-b873-e36a58011f4e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="3" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/play/emoji/cheers.png" />
+      <FilePathData Path="image/play/emoji/cock.png" />
+      <FilePathData Path="image/play/emoji/courtship.png" />
+      <FilePathData Path="image/play/emoji/daoshuiFX.png" />
+      <FilePathData Path="image/play/emoji/emoji_bg.png" />
+      <FilePathData Path="image/play/emoji/gunshootFX_hit.png" />
+      <FilePathData Path="image/play/emoji/jiuping.png" />
+      <FilePathData Path="image/play/emoji/roseFX_2.png" />
+      <FilePathData Path="image/play/emoji/woshou.png" />
+      <FilePathData Path="image/play/emoji/img_coke.png" />
+      <FilePathData Path="image/play/emoji/img_daoshui.png" />
+      <FilePathData Path="image/play/emoji/img_egg.png" />
+      <FilePathData Path="image/play/emoji/img_ganbei.png" />
+      <FilePathData Path="image/play/emoji/img_jiuping.png" />
+      <FilePathData Path="image/play/emoji/img_kiss.png" />
+      <FilePathData Path="image/play/emoji/img_rose.png" />
+      <FilePathData Path="image/play/emoji/img_woshou.png" />
+      <FilePathData Path="image/play/emoji/throwingEggs.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

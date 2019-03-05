@@ -1,0 +1,67 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="createroom" Type="Plist" ID="9d26683a-6e9d-4151-a1f7-f969bba55258" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/createroom/arrow.png" />
+      <FilePathData Path="image/createroom/bawangzhuang.png" />
+      <FilePathData Path="image/createroom/bg.png" />
+      <FilePathData Path="image/createroom/bg_item.png" />
+      <FilePathData Path="image/createroom/btn_add.png" />
+      <FilePathData Path="image/createroom/btn_create_room.png" />
+      <FilePathData Path="image/createroom/btn_reduce.png" />
+      <FilePathData Path="image/createroom/btn_slider1.png" />
+      <FilePathData Path="image/createroom/btn_slider2.png" />
+      <FilePathData Path="image/createroom/check.png" />
+      <FilePathData Path="image/createroom/check_bg.png" />
+      <FilePathData Path="image/createroom/choice.png" />
+      <FilePathData Path="image/createroom/choice_bg.png" />
+      <FilePathData Path="image/createroom/classic_niu.png" />
+      <FilePathData Path="image/createroom/dividing_line.png" />
+      <FilePathData Path="image/createroom/dougongniu.png" />
+      <FilePathData Path="image/createroom/game_psz_11.png" />
+      <FilePathData Path="image/createroom/img_input_bg.png" />
+      <FilePathData Path="image/createroom/img_new.png" />
+      <FilePathData Path="image/createroom/img_tips.png" />
+      <FilePathData Path="image/createroom/mingpaiqiangzhuang.png" />
+      <FilePathData Path="image/createroom/mjttz.png" />
+      <FilePathData Path="image/createroom/neice.png" />
+      <FilePathData Path="image/createroom/option_bg.png" />
+      <FilePathData Path="image/createroom/pinsanzhang1.png" />
+      <FilePathData Path="image/createroom/pinsanzhang2.png" />
+      <FilePathData Path="image/createroom/pkttz.png" />
+      <FilePathData Path="image/createroom/pop.png" />
+      <FilePathData Path="image/createroom/pop1.png" />
+      <FilePathData Path="image/createroom/pop2.png" />
+      <FilePathData Path="image/createroom/pop3.png" />
+      <FilePathData Path="image/createroom/pop4.png" />
+      <FilePathData Path="image/createroom/slider_bg.png" />
+      <FilePathData Path="image/createroom/text_bg.png" />
+      <FilePathData Path="image/createroom/tip_bg.png" />
+      <FilePathData Path="image/createroom/title_create_room.png" />
+      <FilePathData Path="image/createroom/title_niuniu1.png" />
+      <FilePathData Path="image/createroom/title_niuniu2.png" />
+      <FilePathData Path="image/createroom/title_niuye1.png" />
+      <FilePathData Path="image/createroom/title_niuye2.png" />
+      <FilePathData Path="image/createroom/title_qionghai1.png" />
+      <FilePathData Path="image/createroom/title_qionghai2.png" />
+      <FilePathData Path="image/createroom/title_sg1.png" />
+      <FilePathData Path="image/createroom/title_sg2.png" />
+      <FilePathData Path="image/createroom/title_ttz1.png" />
+      <FilePathData Path="image/createroom/title_ttz2.png" />
+      <FilePathData Path="image/createroom/title_ysniuniu1.png" />
+      <FilePathData Path="image/createroom/title_ysniuniu2.png" />
+      <FilePathData Path="image/createroom/tongbiniu.png" />
+      <FilePathData Path="image/createroom/type_bg1.png" />
+      <FilePathData Path="image/createroom/type_bg2.png" />
+      <FilePathData Path="image/createroom/wenhao.png" />
+      <FilePathData Path="image/createroom/ysqiangzhuang.png" />
+      <FilePathData Path="image/createroom/yuanshuaiqiangzhuang.png" />
+      <FilePathData Path="image/createroom/ziyouqiangzhuang.png" />
+      <FilePathData Path="image/createroom/bgItemD.png" />
+      <FilePathData Path="image/createroom/bgItemM.png" />
+      <FilePathData Path="image/createroom/bgItemTitle.png" />
+      <FilePathData Path="image/createroom/bgItemU.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

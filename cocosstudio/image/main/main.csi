@@ -1,0 +1,63 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="main" Type="Plist" ID="884701d9-ef86-4981-9bda-c309c5217d53" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/main/img_room_card.png" />
+      <FilePathData Path="image/main/img_marquee.png" />
+      <FilePathData Path="image/main/img_logo.png" />
+      <FilePathData Path="image/main/img_id.png" />
+      <FilePathData Path="image/main/id_bg.png" />
+      <FilePathData Path="image/main/flash1.png" />
+      <FilePathData Path="image/main/flash2.png" />
+      <FilePathData Path="image/main/flash3.png" />
+      <FilePathData Path="image/main/btn_share.png" />
+      <FilePathData Path="image/main/btn_set.png" />
+      <FilePathData Path="image/main/btn_record.png" />
+      <FilePathData Path="image/main/btn_rule.png" />
+      <FilePathData Path="image/main/btn_service.png" />
+      <FilePathData Path="image/main/btn_join_room.png" />
+      <FilePathData Path="image/main/btn_mall.png" />
+      <FilePathData Path="image/main/btn_create_room.png" />
+      <FilePathData Path="image/main/btn_invite.png" />
+      <FilePathData Path="image/main/btn_realname.png" />
+      <FilePathData Path="image/main/head_box.png" />
+      <FilePathData Path="image/main/award.png" />
+      <FilePathData Path="image/main/bg1.png" />
+      <FilePathData Path="image/main/bg2.png" />
+      <FilePathData Path="image/main/btn_sign.png" />
+      <FilePathData Path="image/main/dial.png" />
+      <FilePathData Path="image/main/btn_guild.png" />
+      <FilePathData Path="image/main/btn_1.png" />
+      <FilePathData Path="image/main/btn_2.png" />
+      <FilePathData Path="image/main/btn_addcard.png" />
+      <FilePathData Path="image/main/btn_down1.png" />
+      <FilePathData Path="image/main/btn_guild_invite.png" />
+      <FilePathData Path="image/main/btn_join_roombg.png" />
+      <FilePathData Path="image/main/btn_limit_time_match.png" />
+      <FilePathData Path="image/main/id_name_bg.png" />
+      <FilePathData Path="image/main/img_await.png" />
+      <FilePathData Path="image/main/img_downleft.png" />
+      <FilePathData Path="image/main/img_downright.png" />
+      <FilePathData Path="image/main/img_joinroom.png" />
+      <FilePathData Path="image/main/img_match.png" />
+      <FilePathData Path="image/main/img_tag.png" />
+      <FilePathData Path="image/main/img_tips.png" />
+      <FilePathData Path="image/main/list_ptemplate.png" />
+      <FilePathData Path="image/main/img_guild.png" />
+      <FilePathData Path="image/main/iphone.png" />
+      <FilePathData Path="image/main/logo.png" />
+      <FilePathData Path="image/main/img_btnmatch.png" />
+      <FilePathData Path="image/main/guild.PNG" />
+      <FilePathData Path="image/main/match.png" />
+      <FilePathData Path="image/main/renwu1.png" />
+      <FilePathData Path="image/main/renwu2.png" />
+      <FilePathData Path="image/main/room_card_bg.png" />
+      <FilePathData Path="image/main/img_guildBtn.png" />
+      <FilePathData Path="image/main/img_createroombtn.png" />
+      <FilePathData Path="image/main/btn_announce.png" />
+      <FilePathData Path="image/main/bg.png" />
+      <FilePathData Path="image/main/btnMobile.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

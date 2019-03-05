@@ -1,0 +1,22 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="myroom" Type="Plist" ID="57bd1272-0226-4551-8e9b-7556763ffa66" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/myroom/btn_detail.png" />
+      <FilePathData Path="image/myroom/btn_enter.png" />
+      <FilePathData Path="image/myroom/btn_refresh.png" />
+      <FilePathData Path="image/myroom/btn_share.png" />
+      <FilePathData Path="image/myroom/myroom_title.png" />
+      <FilePathData Path="image/myroom/check_game.png" />
+      <FilePathData Path="image/myroom/in_game.png" />
+      <FilePathData Path="image/myroom/over.png" />
+      <FilePathData Path="image/myroom/img_notstart.png" />
+      <FilePathData Path="image/myroom/btn_MyRoom.png" />
+      <FilePathData Path="image/myroom/btn_close.png" />
+      <FilePathData Path="image/myroom/img_back.png" />
+      <FilePathData Path="image/myroom/player_list.png" />
+      <FilePathData Path="image/myroom/img_tip_bg.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

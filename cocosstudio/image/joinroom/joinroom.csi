@@ -1,0 +1,21 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="joinroom" Type="Plist" ID="e1157d95-bc9a-46ab-832e-c0a5576ef61e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/joinroom/0.png" />
+      <FilePathData Path="image/joinroom/1.png" />
+      <FilePathData Path="image/joinroom/2.png" />
+      <FilePathData Path="image/joinroom/3.png" />
+      <FilePathData Path="image/joinroom/4.png" />
+      <FilePathData Path="image/joinroom/5.png" />
+      <FilePathData Path="image/joinroom/6.png" />
+      <FilePathData Path="image/joinroom/7.png" />
+      <FilePathData Path="image/joinroom/8.png" />
+      <FilePathData Path="image/joinroom/9.png" />
+      <FilePathData Path="image/joinroom/delete.png" />
+      <FilePathData Path="image/joinroom/Reset.png" />
+      <FilePathData Path="image/joinroom/btn_number.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="128" />
+  </Content>
+</PlistInfoProjectFile>
